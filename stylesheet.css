@@ -1,8 +1,10 @@
+@charset "utf-8";
+
 body {
   position: fixed;
 }
 
-#play_screen{
+#play_screen {
   display: none;
   position: fixed;
   width: 750px;
